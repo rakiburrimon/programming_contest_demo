@@ -1,0 +1,59 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <title>Bootstrap Example</title>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css">
+  <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.3.1/jquery.min.js"></script>
+  <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js"></script>
+</head>
+<body>
+
+<div class="container">
+  <h2>Create Contest</h2>
+  <form class="form-inline" action="">
+    <div class="form-group">
+      <label for="Contest Name">Contest Name</label>
+      <input type="text" class="form-control" id="contestname" placeholder="Enter Contest Name" name="contestname">
+    </div>
+</br>
+    <div class="form-group">
+      <label for="Date">Date</label>
+      <input type="date" class="form-control" id="date" placeholder="Enter Contest Date" name="date">
+    </div>
+    <div class="dropdown">
+    <button class="btn btn-primary dropdown-toggle" type="button" data-toggle="dropdown">Contest Type
+    <span class="caret"></span></button>
+    <ul class="dropdown-menu">
+      <li><a>Basic</a></li>
+      <li><a>Advance</a></li>
+      <li><a>Expert</a></li>
+    </ul>
+  </div>
+  </br>
+  <div class="dropdown">
+    <button class="btn btn-primary dropdown-toggle" type="button" data-toggle="dropdown">Seat Limitation
+    <span class="caret"></span></button>
+    <ul class="dropdown-menu">
+      <li><a>20</a></li>
+      <li><a>50</a></li>
+      <li><a>No Limit</a></li>
+    </ul>
+  </div>
+  </br>
+  <div class="dropdown">
+    <button class="btn btn-primary dropdown-toggle" type="button" data-toggle="dropdown">Place/Venue
+    <span class="caret"></span></button>
+    <ul class="dropdown-menu">
+      <li><a>Fixed</a></li>
+      <li><a>Online</a></li>   
+    </ul>
+  </div>
+</br>
+    <button type="submit" class="btn btn-default">Submit</button>
+  </form>
+</div>
+
+</body>
+</html>

@@ -1,0 +1,11 @@
+C:\Users\Rimon\Desktop\soft\software Ui\soft\soft\bin\Debug\netcoreapp2.0\soft.deps.json
+C:\Users\Rimon\Desktop\soft\software Ui\soft\soft\bin\Debug\netcoreapp2.0\soft.runtimeconfig.json
+C:\Users\Rimon\Desktop\soft\software Ui\soft\soft\bin\Debug\netcoreapp2.0\soft.runtimeconfig.dev.json
+C:\Users\Rimon\Desktop\soft\software Ui\soft\soft\bin\Debug\netcoreapp2.0\soft.dll
+C:\Users\Rimon\Desktop\soft\software Ui\soft\soft\obj\Debug\netcoreapp2.0\soft.csprojResolveAssemblyReference.cache
+C:\Users\Rimon\Desktop\soft\software Ui\soft\soft\obj\Debug\netcoreapp2.0\soft.csproj.CoreCompileInputs.cache
+C:\Users\Rimon\Desktop\soft\software Ui\soft\soft\obj\Debug\netcoreapp2.0\soft.AssemblyInfoInputs.cache
+C:\Users\Rimon\Desktop\soft\software Ui\soft\soft\obj\Debug\netcoreapp2.0\soft.AssemblyInfo.cs
+C:\Users\Rimon\Desktop\soft\software Ui\soft\soft\bin\Debug\netcoreapp2.0\soft.pdb
+C:\Users\Rimon\Desktop\soft\software Ui\soft\soft\obj\Debug\netcoreapp2.0\soft.dll
+C:\Users\Rimon\Desktop\soft\software Ui\soft\soft\obj\Debug\netcoreapp2.0\soft.pdb
